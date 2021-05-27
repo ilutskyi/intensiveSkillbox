@@ -1,0 +1,4 @@
+GET /api/users
+GET /api/messages
+POST /api/messages
+POST /api/users

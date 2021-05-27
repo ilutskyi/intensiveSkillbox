@@ -6,4 +6,10 @@ user
 - name VARCHAR(255) NOT NULL
 
 
+messages
+
+- id INT NOT NULL AUTO_INCREMENT
+- time DATE NOT NULL
+- user_id INT NOT NULL
+- message VARCHAR(255) NOT NULL
 
